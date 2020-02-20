@@ -82,7 +82,7 @@ int main(){
 			cout << *numbers.begin();
 		cout << endl;
 		
-		if(N != 0)
+		if(M != 0)
 		    cout << endl;
 		
 	}	

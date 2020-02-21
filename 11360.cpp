@@ -68,7 +68,7 @@ int main(){
             vi row;
             string str;
             getline(cin, str);
-            if(str.length() != 1){
+            if(j != 0){
                 row = getNum(str);
                 matrix.push_back(row);
             }

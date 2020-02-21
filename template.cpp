@@ -3,7 +3,7 @@ using namespace std;
 
 
 typedef vector<int> vi;
-typedef vector<vector<int> vvi;
+typedef vector<vector<int>> vvi;
 
 
 int main(){

@@ -7,8 +7,7 @@ typedef vector<vector<int>> vvi;
 
 
 int main(){
-	
-	
+	int t;
 
 
 	return 0;
